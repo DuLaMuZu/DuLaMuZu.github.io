@@ -1,4 +1,4 @@
-# DuLaMuZu's Site
+# DuLaMuZu
 
 Welcome  
 projects, research notes,reflections，beyond.
